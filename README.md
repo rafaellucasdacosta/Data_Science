@@ -14,7 +14,7 @@ Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paran
 * **Tratando dados e armazenando no MySQL Workbench: https://bit.ly/3fLM4sa** 
 
 **Links:**
-* [LinkedIn] (www.linkedin.com/in/rafael-lucas-da-costa-1ab11a160)
+* [LinkedIn](www.linkedin.com/in/rafael-lucas-da-costa-1ab11a160)
 
 
 
