@@ -12,7 +12,7 @@ Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paran
 ## Projetos:
 
 * **Tratando dados e armazenando no MySQL Workbench: https://bit.ly/3fLM4sa** 
-* **Extraindo dados da web utilizando a biblioteca Beautiful Soup: https://bit.ly/3d3sllK
+* **Extraindo dados da web utilizando a biblioteca Beautiful Soup: https://bit.ly/3d3sllK**
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/rafael-lucas-da-costa-1ab11a160)
