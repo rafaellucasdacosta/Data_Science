@@ -11,7 +11,7 @@ Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paran
 
 ## Projetos:
 
-* **Tratando dados e armazenando no MySQL Workbench: https://bit.ly/3fLM4sa** 
+* **Tratando dados e armazenando no MySQL Workbench: https://bit.ly/3tgXVlV** 
 * **Extraindo dados da web utilizando a biblioteca Beautiful Soup: https://bit.ly/3dhwjay**
 
 **Links:**
