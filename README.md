@@ -5,7 +5,7 @@
 
 # Rafael Lucas da Costa
 
-Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paraná (UENP). Tenho interesse nas áreas de Data Science, Data Analytics e Business Analytics. Esse portfólio contém um conjuto de projetos relacionados à essas áreas que foram desenvolvidos para fins de estudo.
+Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paraná (UENP). Tenho interesse nas áreas de Data Science, Data Analytics e Business Analytics. Aqui você encontrará projetos relacionados à essas áreas que foram desenvolvidos para fins de estudo.
 
 **Possuo conhecimentos em:** Python e Power BI.
 
