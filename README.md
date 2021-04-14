@@ -16,7 +16,7 @@ Estudante de Sistemas de Informação na Universidade Estadual do Norte do Paran
 * **Coletando dados do twitter: https://bit.ly/3djQZyS**
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/rafael-lucas-da-costa-1ab11a160)
+* [LinkedIn](https://www.linkedin.com/in/rafael-lucas-da-costa-1ab11a160/)
 * [I'm an inline-style link](https://www.google.com)
 
 
