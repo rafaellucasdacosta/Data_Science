@@ -5,9 +5,9 @@
 
 # Rafael Lucas da Costa | Analista de BI
 
-**Atualmente trabalho na área de Business Intelligence desenvolvendo e apresentando dashboards para acompanhamento de KPIs relevantes ao negócio. **
-**Possuo experiência nas ferramentas Qlik Sense, Power BI e SQL, utilizando-as no processo de ETL e visualização de dados. **
-**Tenho conhecimentos em Python para análise e tratamento de dados e Apache Airflow.**
+Atualmente trabalho na área de Business Intelligence desenvolvendo e apresentando dashboards para acompanhamento de KPIs relevantes ao negócio.
+Possuo experiência nas ferramentas Qlik Sense, Power BI e SQL, utilizando-as no processo de ETL e visualização de dados.
+Tenho conhecimentos em Python para análise e tratamento de dados e Apache Airflow.
 
 Possuo Bacharel em Sistemas de Informação pela Universidade Estadual do Norte do Paraná (UENP). Tenho interesse nas áreas de Data Science, Data Analytics e Business Intelligence. Neste repositório podem ser encontrados projetos relacionados à essas áreas que foram desenvolvidos para fins de estudo.
 
